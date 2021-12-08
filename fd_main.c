@@ -1,3 +1,6 @@
+/*  Copyright (C) 2015       CSC - IT Center for Science Ltd.
+ *  Please see the accompanying LICENSE file for further information. */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
